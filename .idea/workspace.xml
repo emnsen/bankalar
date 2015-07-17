@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6bac85a-a1e8-4815-ace2-9b7d7bc35216" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\projects\bankalar\.idea\workspace.xml" afterPath="" />
     </list>
     <ignored path="bankalar.iws" />
     <ignored path=".idea/workspace.xml" />
